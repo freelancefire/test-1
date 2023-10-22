@@ -1,4 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/225px-Fox_Cricket_Logo.png” group-title=”Sports”, Rabbithole
-https://streams.rabbitholebd.com/live/Blessbit-Youtube_93/Blessbit-Youtube_93/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2064000,RESOLUTION=1920x1080
+Blessbit-Youtube_93_1_playlist.m3u8
