@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/225px-Fox_Cricket_Logo.png” group-title=”Sports”, FOX CRICKET 501
-https://d1.ainakwalajeen.com:999/hls/fox501.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/225px-Fox_Cricket_Logo.png” group-title=”Sports”, Rabbithole
+https://streams.rabbitholebd.com/live/Blessbit-Youtube_93/Blessbit-Youtube_93/index.m3u8
